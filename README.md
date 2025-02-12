@@ -4,6 +4,14 @@ Este laboratorio se realizó con la intención de identificar como funciona una 
 # Proceso 
 Para este laboratorio el proceso inicial fue el entendimiento de como funciona una convolución matemáticamente y gráficamente, la convolución es una operación que une dos funciones generando una nueva, se analizó inicialmente en papel para poder observar el comportamiento de la unión de las dos funciones presentadas mediante un análisis gráfico sencillo, luego iniciamos con el proceso de programación del código para el análisis de nuestra señal electromiográfica importada desde Physionet, esta señal se importa desde el 'Physionet bank atm' la cual es una página que contiene archivos y recursos de señales fisiológicas.
 
+![image](https://github.com/user-attachments/assets/18347faf-dbcb-4372-a700-c83a6775da0b)
+
+![image](https://github.com/user-attachments/assets/3ea8f575-210f-419e-9314-a3413159a899)
+
+![image](https://github.com/user-attachments/assets/06ab62e3-70ed-44b8-a854-171c29a95268)
+
+![image](https://github.com/user-attachments/assets/ccf82cb7-97d0-4dc9-a2f1-9badfa060fcb)
+
 # Código   
 Para este código nos apoyamos de las librerias: matplotlib.pyplot, numpy, scipy.io, scipy.signal. Estas librerías nos ayudan a realizar los cálculos mediante funciones, nos ayuda a graficar las funciones y señales y a cargar los archivos de Physionet, principalmente se hacen arreglos de las funciones que vamos a convolucionar y posteriormente se grafican cada función individual y su convolución 
 
